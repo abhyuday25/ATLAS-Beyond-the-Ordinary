@@ -27,6 +27,20 @@ Open [ATLAS locally](http://127.0.0.1:8000). Stop the server with Ctrl+C. Python
 - Lazy thumbnails, asynchronous decoding, stable image ratios, graceful local error image, reduced-motion rules.
 - Native button keyboard activation, visible focus rings, skip link and live result announcements.
 
+## Screenshots
+
+![Desktop landing page at 1440 px](docs/report-evidence/shot-001.jpg)
+Editorial hero, branding and primary navigation.
+
+![Dolomites searched gallery card](docs/report-evidence/shot-002.jpg)
+Live search narrows the edit to the destination.
+
+![Dolomites photography viewer](docs/report-evidence/shot-003.jpg)
+Native modal viewer with image credit, saving and navigation controls.
+
+![Dolomites destination guide](docs/report-evidence/shot-004.jpg)
+Overview, highlights, interests, culture, planning note and source links.
+
 ## Keyboard reference
 
 | Key | Behavior |
