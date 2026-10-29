@@ -1,0 +1,226 @@
+TAP version 13
+# Subtest: D01: at least 18 unique, complete entries spanning multiple continents
+ok 1 - D01: at least 18 unique, complete entries spanning multiple continents
+  ---
+  duration_ms: 1.3396
+  type: 'test'
+  ...
+# Subtest: D02: image URLs verified and HTTPS source metadata present
+ok 2 - D02: image URLs verified and HTTPS source metadata present
+  ---
+  duration_ms: 0.8071
+  type: 'test'
+  ...
+# Subtest: S01: normalize case and surrounding whitespace
+ok 3 - S01: normalize case and surrounding whitespace
+  ---
+  duration_ms: 0.2194
+  type: 'test'
+  ...
+# Subtest: S02: null and missing search normalize safely
+ok 4 - S02: null and missing search normalize safely
+  ---
+  duration_ms: 0.1008
+  type: 'test'
+  ...
+# Subtest: S03: case-insensitive destination search
+ok 5 - S03: case-insensitive destination search
+  ---
+  duration_ms: 0.2662
+  type: 'test'
+  ...
+# Subtest: S04: whitespace around country search
+ok 6 - S04: whitespace around country search
+  ---
+  duration_ms: 1.3207
+  type: 'test'
+  ...
+# Subtest: S05: category keyword search also matches descriptive keywords
+ok 7 - S05: category keyword search also matches descriptive keywords
+  ---
+  duration_ms: 0.2963
+  type: 'test'
+  ...
+# Subtest: S06: descriptive keyword search
+ok 8 - S06: descriptive keyword search
+  ---
+  duration_ms: 0.1147
+  type: 'test'
+  ...
+# Subtest: S07: empty and whitespace searches show all
+ok 9 - S07: empty and whitespace searches show all
+  ---
+  duration_ms: 0.3929
+  type: 'test'
+  ...
+# Subtest: S08: unknown search yields no results
+ok 10 - S08: unknown search yields no results
+  ---
+  duration_ms: 0.4225
+  type: 'test'
+  ...
+# Subtest: S09: search handles literal markup without execution
+ok 11 - S09: search handles literal markup without execution
+  ---
+  duration_ms: 0.1484
+  type: 'test'
+  ...
+# Subtest: F01: each category and All work
+ok 12 - F01: each category and All work
+  ---
+  duration_ms: 0.1548
+  type: 'test'
+  ...
+# Subtest: F02: category and country search intersect
+ok 13 - F02: category and country search intersect
+  ---
+  duration_ms: 0.0655
+  type: 'test'
+  ...
+# Subtest: F03: empty favorites return empty collection
+ok 14 - F03: empty favorites return empty collection
+  ---
+  duration_ms: 0.0454
+  type: 'test'
+  ...
+# Subtest: F04: favorites combine with search and category
+ok 15 - F04: favorites combine with search and category
+  ---
+  duration_ms: 0.0487
+  type: 'test'
+  ...
+# Subtest: F05: favorite membership does not filter standard view
+ok 16 - F05: favorite membership does not filter standard view
+  ---
+  duration_ms: 0.0455
+  type: 'test'
+  ...
+# Subtest: O01: A–Z sorts without mutating data
+ok 17 - O01: A–Z sorts without mutating data
+  ---
+  duration_ms: 25.9697
+  type: 'test'
+  ...
+# Subtest: O02: Z–A reverses A–Z
+ok 18 - O02: Z–A reverses A–Z
+  ---
+  duration_ms: 0.1775
+  type: 'test'
+  ...
+# Subtest: O03: featured prioritizes flagged entries
+ok 19 - O03: featured prioritizes flagged entries
+  ---
+  duration_ms: 0.0728
+  type: 'test'
+  ...
+# Subtest: O04: sorting preserves active filters
+ok 20 - O04: sorting preserves active filters
+  ---
+  duration_ms: 0.0494
+  type: 'test'
+  ...
+# Subtest: P01: malformed JSON recovers
+ok 21 - P01: malformed JSON recovers
+  ---
+  duration_ms: 0.8962
+  type: 'test'
+  ...
+# Subtest: P02: wrong JSON types recover
+ok 22 - P02: wrong JSON types recover
+  ---
+  duration_ms: 0.2014
+  type: 'test'
+  ...
+# Subtest: P03: reject unknown IDs and incorrect item types, deduplicate
+ok 23 - P03: reject unknown IDs and incorrect item types, deduplicate
+  ---
+  duration_ms: 0.0902
+  type: 'test'
+  ...
+# Subtest: P04: storage round trip preserves valid IDs
+ok 24 - P04: storage round trip preserves valid IDs
+  ---
+  duration_ms: 0.5638
+  type: 'test'
+  ...
+# Subtest: H01: all local HTML assets and internal anchors exist
+ok 25 - H01: all local HTML assets and internal anchors exist
+  ---
+  duration_ms: 2.1128
+  type: 'test'
+  ...
+# Subtest: H02: required documentation exists with seven ordered report sections
+ok 26 - H02: required documentation exists with seven ordered report sections
+  ---
+  duration_ms: 9.3196
+  type: 'test'
+  ...
+# Subtest: A01: palette contrast for principal text and active filters meets 4.5:1
+ok 27 - A01: palette contrast for principal text and active filters meets 4.5:1
+  ---
+  duration_ms: 0.6595
+  type: 'test'
+  ...
+# Subtest: G01: all 18 guides have substantive content and valid sourced coordinates
+ok 28 - G01: all 18 guides have substantive content and valid sourced coordinates
+  ---
+  duration_ms: 0.8423
+  type: 'test'
+  ...
+# Subtest: R01: random discovery handles empty and single-item collections
+ok 29 - R01: random discovery handles empty and single-item collections
+  ---
+  duration_ms: 0.1252
+  type: 'test'
+  ...
+# Subtest: R02: random discovery avoids immediate repeats with multiple choices
+ok 30 - R02: random discovery avoids immediate repeats with multiple choices
+  ---
+  duration_ms: 0.1158
+  type: 'test'
+  ...
+# Subtest: R03: random discovery stays within a filtered eligible collection
+ok 31 - R03: random discovery stays within a filtered eligible collection
+  ---
+  duration_ms: 0.1042
+  type: 'test'
+  ...
+# Subtest: C01: comparison toggles unique selection without changing input
+ok 32 - C01: comparison toggles unique selection without changing input
+  ---
+  duration_ms: 0.8407
+  type: 'test'
+  ...
+# Subtest: C02: comparison caps at three but allows removal at the limit
+ok 33 - C02: comparison caps at three but allows removal at the limit
+  ---
+  duration_ms: 0.3451
+  type: 'test'
+  ...
+# Subtest: M01: map links use HTTPS, expected coordinates and OpenStreetMap
+ok 34 - M01: map links use HTTPS, expected coordinates and OpenStreetMap
+  ---
+  duration_ms: 0.4213
+  type: 'test'
+  ...
+# Subtest: M02: invalid geographic coordinates are rejected
+ok 35 - M02: invalid geographic coordinates are rejected
+  ---
+  duration_ms: 0.1086
+  type: 'test'
+  ...
+# Subtest: M03: map viewport bounds stay within valid geographic ranges
+ok 36 - M03: map viewport bounds stay within valid geographic ranges
+  ---
+  duration_ms: 0.2202
+  type: 'test'
+  ...
+1..36
+# tests 36
+# suites 0
+# pass 36
+# fail 0
+# cancelled 0
+# skipped 0
+# todo 0
+# duration_ms 163.0123

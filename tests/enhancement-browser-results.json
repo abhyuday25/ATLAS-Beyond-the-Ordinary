@@ -1,0 +1,530 @@
+{
+  "date": "2026-10-29",
+  "browser": "Chromium-based in-app browser",
+  "finalCount": 60,
+  "finalPassed": 60,
+  "attempts": [
+    {
+      "id": "E01-guide-open",
+      "pass": true
+    },
+    {
+      "id": "E02-guide-content",
+      "pass": true
+    },
+    {
+      "id": "E03-guide-highlights",
+      "pass": true
+    },
+    {
+      "id": "E04-guide-source",
+      "pass": true
+    },
+    {
+      "id": "E05-guide-toggle",
+      "pass": true
+    },
+    {
+      "id": "E06-guide-return-focus",
+      "pass": true
+    },
+    {
+      "id": "E07-random-filter",
+      "pass": true
+    },
+    {
+      "id": "E08-no-immediate-repeat",
+      "pass": true
+    },
+    {
+      "id": "E09-discovery-empty-disabled",
+      "pass": true
+    },
+    {
+      "id": "E10-one-selection-disabled",
+      "pass": true
+    },
+    {
+      "id": "E11-two-selection-enabled",
+      "pass": true
+    },
+    {
+      "id": "E12-comparison-limit",
+      "pass": true
+    },
+    {
+      "id": "E13-comparison-survives-filter",
+      "pass": true
+    },
+    {
+      "id": "E14-comparison-content",
+      "pass": true
+    },
+    {
+      "id": "E15-comparison-initial-focus",
+      "pass": true
+    },
+    {
+      "id": "E16-comparison-wrap",
+      "pass": true
+    },
+    {
+      "id": "E17-hidden-place-guide-transition",
+      "pass": true
+    },
+    {
+      "id": "E18-comparison-guide-return",
+      "pass": true
+    },
+    {
+      "id": "E19-comparison-remove",
+      "pass": true
+    },
+    {
+      "id": "E20-comparison-clear",
+      "pass": true
+    },
+    {
+      "id": "E21-slideshow-start",
+      "pass": true
+    },
+    {
+      "id": "E22-slideshow-advance",
+      "pass": false
+    },
+    {
+      "id": "E22-slideshow-advance",
+      "pass": true
+    },
+    {
+      "id": "E24-slideshow-keyboard-pause",
+      "pass": true
+    },
+    {
+      "id": "E23-slideshow-loop",
+      "pass": true
+    },
+    {
+      "id": "E25-select-does-not-trigger-shortcut",
+      "pass": true
+    },
+    {
+      "id": "E26-manual-nav-pauses",
+      "pass": true
+    },
+    {
+      "id": "E27-guide-pauses",
+      "pass": true
+    },
+    {
+      "id": "E28-map-opens",
+      "pass": true
+    },
+    {
+      "id": "E29-map-selection",
+      "pass": true
+    },
+    {
+      "id": "E30-map-zoom",
+      "pass": true
+    },
+    {
+      "id": "E31-map-follows-filter",
+      "pass": true
+    },
+    {
+      "id": "E32-map-empty",
+      "pass": true
+    },
+    {
+      "id": "E33-map-guide",
+      "pass": true
+    },
+    {
+      "id": "E34-map-guide-focus",
+      "pass": true
+    },
+    {
+      "id": "E35-map-close",
+      "pass": true
+    },
+    {
+      "id": "E36-slideshow-speed",
+      "pass": true
+    },
+    {
+      "id": "E37-reopen-paused",
+      "pass": true
+    },
+    {
+      "id": "E38-single-gallery-slideshow-disabled",
+      "pass": true
+    },
+    {
+      "id": "E39-single-random",
+      "pass": true
+    },
+    {
+      "id": "E40-single-viewer-slideshow-disabled",
+      "pass": true
+    },
+    {
+      "id": "E41-favorite-regression",
+      "pass": true
+    },
+    {
+      "id": "E42-persistence-regression",
+      "pass": true
+    },
+    {
+      "id": "E43-sort-regression",
+      "pass": true
+    },
+    {
+      "id": "E44-arrow-regression",
+      "pass": true
+    },
+    {
+      "id": "E45-hidden-guide-trap",
+      "pass": true
+    },
+    {
+      "id": "E46-select-tab-wrap",
+      "pass": true
+    },
+    {
+      "id": "E47-focus-regression",
+      "pass": true
+    },
+    {
+      "id": "ER1440",
+      "pass": true
+    },
+    {
+      "id": "ER1024",
+      "pass": true
+    },
+    {
+      "id": "ER768",
+      "pass": true
+    },
+    {
+      "id": "ER390",
+      "pass": true
+    },
+    {
+      "id": "ER320",
+      "pass": true
+    },
+    {
+      "id": "E48-comparison-focus-return",
+      "pass": true
+    },
+    {
+      "id": "E49-mobile-map-no-overflow",
+      "pass": true
+    },
+    {
+      "id": "E50-mobile-guide-no-overflow",
+      "pass": true
+    },
+    {
+      "id": "E51-comparison-guide-selected-snapshot",
+      "pass": true
+    },
+    {
+      "id": "E53-sticky-guide-close-visible",
+      "pass": true
+    },
+    {
+      "id": "E52-clearing-empty-focus",
+      "pass": true
+    },
+    {
+      "id": "E54-close-cleans-playback",
+      "pass": true
+    },
+    {
+      "id": "E55-console",
+      "pass": true
+    }
+  ],
+  "finalResults": [
+    {
+      "id": "E01-guide-open",
+      "pass": true
+    },
+    {
+      "id": "E02-guide-content",
+      "pass": true
+    },
+    {
+      "id": "E03-guide-highlights",
+      "pass": true
+    },
+    {
+      "id": "E04-guide-source",
+      "pass": true
+    },
+    {
+      "id": "E05-guide-toggle",
+      "pass": true
+    },
+    {
+      "id": "E06-guide-return-focus",
+      "pass": true
+    },
+    {
+      "id": "E07-random-filter",
+      "pass": true
+    },
+    {
+      "id": "E08-no-immediate-repeat",
+      "pass": true
+    },
+    {
+      "id": "E09-discovery-empty-disabled",
+      "pass": true
+    },
+    {
+      "id": "E10-one-selection-disabled",
+      "pass": true
+    },
+    {
+      "id": "E11-two-selection-enabled",
+      "pass": true
+    },
+    {
+      "id": "E12-comparison-limit",
+      "pass": true
+    },
+    {
+      "id": "E13-comparison-survives-filter",
+      "pass": true
+    },
+    {
+      "id": "E14-comparison-content",
+      "pass": true
+    },
+    {
+      "id": "E15-comparison-initial-focus",
+      "pass": true
+    },
+    {
+      "id": "E16-comparison-wrap",
+      "pass": true
+    },
+    {
+      "id": "E17-hidden-place-guide-transition",
+      "pass": true
+    },
+    {
+      "id": "E18-comparison-guide-return",
+      "pass": true
+    },
+    {
+      "id": "E19-comparison-remove",
+      "pass": true
+    },
+    {
+      "id": "E20-comparison-clear",
+      "pass": true
+    },
+    {
+      "id": "E21-slideshow-start",
+      "pass": true
+    },
+    {
+      "id": "E22-slideshow-advance",
+      "pass": true
+    },
+    {
+      "id": "E24-slideshow-keyboard-pause",
+      "pass": true
+    },
+    {
+      "id": "E23-slideshow-loop",
+      "pass": true
+    },
+    {
+      "id": "E25-select-does-not-trigger-shortcut",
+      "pass": true
+    },
+    {
+      "id": "E26-manual-nav-pauses",
+      "pass": true
+    },
+    {
+      "id": "E27-guide-pauses",
+      "pass": true
+    },
+    {
+      "id": "E28-map-opens",
+      "pass": true
+    },
+    {
+      "id": "E29-map-selection",
+      "pass": true
+    },
+    {
+      "id": "E30-map-zoom",
+      "pass": true
+    },
+    {
+      "id": "E31-map-follows-filter",
+      "pass": true
+    },
+    {
+      "id": "E32-map-empty",
+      "pass": true
+    },
+    {
+      "id": "E33-map-guide",
+      "pass": true
+    },
+    {
+      "id": "E34-map-guide-focus",
+      "pass": true
+    },
+    {
+      "id": "E35-map-close",
+      "pass": true
+    },
+    {
+      "id": "E36-slideshow-speed",
+      "pass": true
+    },
+    {
+      "id": "E37-reopen-paused",
+      "pass": true
+    },
+    {
+      "id": "E38-single-gallery-slideshow-disabled",
+      "pass": true
+    },
+    {
+      "id": "E39-single-random",
+      "pass": true
+    },
+    {
+      "id": "E40-single-viewer-slideshow-disabled",
+      "pass": true
+    },
+    {
+      "id": "E41-favorite-regression",
+      "pass": true
+    },
+    {
+      "id": "E42-persistence-regression",
+      "pass": true
+    },
+    {
+      "id": "E43-sort-regression",
+      "pass": true
+    },
+    {
+      "id": "E44-arrow-regression",
+      "pass": true
+    },
+    {
+      "id": "E45-hidden-guide-trap",
+      "pass": true
+    },
+    {
+      "id": "E46-select-tab-wrap",
+      "pass": true
+    },
+    {
+      "id": "E47-focus-regression",
+      "pass": true
+    },
+    {
+      "id": "ER1440",
+      "pass": true
+    },
+    {
+      "id": "ER1024",
+      "pass": true
+    },
+    {
+      "id": "ER768",
+      "pass": true
+    },
+    {
+      "id": "ER390",
+      "pass": true
+    },
+    {
+      "id": "ER320",
+      "pass": true
+    },
+    {
+      "id": "E48-comparison-focus-return",
+      "pass": true
+    },
+    {
+      "id": "E49-mobile-map-no-overflow",
+      "pass": true
+    },
+    {
+      "id": "E50-mobile-guide-no-overflow",
+      "pass": true
+    },
+    {
+      "id": "E51-comparison-guide-selected-snapshot",
+      "pass": true
+    },
+    {
+      "id": "E53-sticky-guide-close-visible",
+      "pass": true
+    },
+    {
+      "id": "E52-clearing-empty-focus",
+      "pass": true
+    },
+    {
+      "id": "E54-close-cleans-playback",
+      "pass": true
+    },
+    {
+      "id": "E55-console",
+      "pass": true
+    }
+  ],
+  "responsive": [
+    {
+      "contentFits": true,
+      "dialogFits": true,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    {
+      "contentFits": true,
+      "dialogFits": true,
+      "scrollWidth": 1024,
+      "width": 1024
+    },
+    {
+      "contentFits": true,
+      "dialogFits": true,
+      "scrollWidth": 768,
+      "width": 768
+    },
+    {
+      "contentFits": true,
+      "dialogFits": true,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    {
+      "contentFits": true,
+      "dialogFits": true,
+      "scrollWidth": 320,
+      "width": 320
+    }
+  ],
+  "notes": [
+    "One fixed-delay E22 observation sampled a later loop; final heading-conditioned rerun passed. An earlier condition wait hit its automation deadline during timing diagnosis.",
+    "Background-tab pause and forced image-failure cleanup remain manual coverage."
+  ]
+}

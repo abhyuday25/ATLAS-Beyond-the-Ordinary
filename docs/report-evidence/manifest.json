@@ -1,0 +1,1452 @@
+{
+  "project": "ATLAS - Beyond the Ordinary",
+  "student": "Abhyuday Sinha",
+  "registration": "23MIC0036",
+  "date": "2026-10-29",
+  "screenshots": [
+    {
+      "number": 1,
+      "file": "shot-001.jpg",
+      "group": "Landing and navigation",
+      "title": "Desktop landing page at 1440 px",
+      "note": "Editorial hero, branding and primary navigation."
+    },
+    {
+      "number": 2,
+      "file": "shot-002.jpg",
+      "group": "Destination gallery",
+      "title": "Dolomites: searched gallery card",
+      "note": "Live search narrows the edit to the destination."
+    },
+    {
+      "number": 3,
+      "file": "shot-003.jpg",
+      "group": "Photography viewer",
+      "title": "Dolomites: photograph and destination metadata",
+      "note": "Native modal viewer with image credit, saving and navigation controls."
+    },
+    {
+      "number": 4,
+      "file": "shot-004.jpg",
+      "group": "Destination guides",
+      "title": "Dolomites: detailed destination guide",
+      "note": "Overview, highlights, interests, culture, planning note and source links."
+    },
+    {
+      "number": 5,
+      "file": "shot-005.jpg",
+      "group": "Destination gallery",
+      "title": "Kyoto: searched gallery card",
+      "note": "Live search narrows the edit to the destination."
+    },
+    {
+      "number": 6,
+      "file": "shot-006.jpg",
+      "group": "Photography viewer",
+      "title": "Kyoto: photograph and destination metadata",
+      "note": "Native modal viewer with image credit, saving and navigation controls."
+    },
+    {
+      "number": 7,
+      "file": "shot-007.jpg",
+      "group": "Destination guides",
+      "title": "Kyoto: detailed destination guide",
+      "note": "Overview, highlights, interests, culture, planning note and source links."
+    },
+    {
+      "number": 8,
+      "file": "shot-008.jpg",
+      "group": "Destination gallery",
+      "title": "Santorini: searched gallery card",
+      "note": "Live search narrows the edit to the destination."
+    },
+    {
+      "number": 9,
+      "file": "shot-009.jpg",
+      "group": "Photography viewer",
+      "title": "Santorini: photograph and destination metadata",
+      "note": "Native modal viewer with image credit, saving and navigation controls."
+    },
+    {
+      "number": 10,
+      "file": "shot-010.jpg",
+      "group": "Destination guides",
+      "title": "Santorini: detailed destination guide",
+      "note": "Overview, highlights, interests, culture, planning note and source links."
+    },
+    {
+      "number": 11,
+      "file": "shot-011.jpg",
+      "group": "Destination gallery",
+      "title": "Patagonia: searched gallery card",
+      "note": "Live search narrows the edit to the destination."
+    },
+    {
+      "number": 12,
+      "file": "shot-012.jpg",
+      "group": "Photography viewer",
+      "title": "Patagonia: photograph and destination metadata",
+      "note": "Native modal viewer with image credit, saving and navigation controls."
+    },
+    {
+      "number": 13,
+      "file": "shot-013.jpg",
+      "group": "Destination guides",
+      "title": "Patagonia: detailed destination guide",
+      "note": "Overview, highlights, interests, culture, planning note and source links."
+    },
+    {
+      "number": 14,
+      "file": "shot-014.jpg",
+      "group": "Destination gallery",
+      "title": "Bali: searched gallery card",
+      "note": "Live search narrows the edit to the destination."
+    },
+    {
+      "number": 15,
+      "file": "shot-015.jpg",
+      "group": "Photography viewer",
+      "title": "Bali: photograph and destination metadata",
+      "note": "Native modal viewer with image credit, saving and navigation controls."
+    },
+    {
+      "number": 16,
+      "file": "shot-016.jpg",
+      "group": "Destination guides",
+      "title": "Bali: detailed destination guide",
+      "note": "Overview, highlights, interests, culture, planning note and source links."
+    },
+    {
+      "number": 17,
+      "file": "shot-017.jpg",
+      "group": "Destination gallery",
+      "title": "New York City: searched gallery card",
+      "note": "Live search narrows the edit to the destination."
+    },
+    {
+      "number": 18,
+      "file": "shot-018.jpg",
+      "group": "Photography viewer",
+      "title": "New York City: photograph and destination metadata",
+      "note": "Native modal viewer with image credit, saving and navigation controls."
+    },
+    {
+      "number": 19,
+      "file": "shot-019.jpg",
+      "group": "Destination guides",
+      "title": "New York City: detailed destination guide",
+      "note": "Overview, highlights, interests, culture, planning note and source links."
+    },
+    {
+      "number": 20,
+      "file": "shot-020.jpg",
+      "group": "Destination gallery",
+      "title": "Cappadocia: searched gallery card",
+      "note": "Case-insensitive live destination search."
+    },
+    {
+      "number": 21,
+      "file": "shot-021.jpg",
+      "group": "Photography viewer",
+      "title": "Cappadocia: photograph and destination metadata",
+      "note": "A source-credited photograph in the native viewer."
+    },
+    {
+      "number": 22,
+      "file": "shot-022.jpg",
+      "group": "Destination guides",
+      "title": "Cappadocia: detailed destination guide",
+      "note": "Original editorial context, interests and practical planning suggestions."
+    },
+    {
+      "number": 23,
+      "file": "shot-023.jpg",
+      "group": "Destination gallery",
+      "title": "Marrakech: searched gallery card",
+      "note": "Case-insensitive live destination search."
+    },
+    {
+      "number": 24,
+      "file": "shot-024.jpg",
+      "group": "Photography viewer",
+      "title": "Marrakech: photograph and destination metadata",
+      "note": "A source-credited photograph in the native viewer."
+    },
+    {
+      "number": 25,
+      "file": "shot-025.jpg",
+      "group": "Destination guides",
+      "title": "Marrakech: detailed destination guide",
+      "note": "Original editorial context, interests and practical planning suggestions."
+    },
+    {
+      "number": 26,
+      "file": "shot-026.jpg",
+      "group": "Destination gallery",
+      "title": "Banff: searched gallery card",
+      "note": "Case-insensitive live destination search."
+    },
+    {
+      "number": 27,
+      "file": "shot-027.jpg",
+      "group": "Photography viewer",
+      "title": "Banff: photograph and destination metadata",
+      "note": "A source-credited photograph in the native viewer."
+    },
+    {
+      "number": 28,
+      "file": "shot-028.jpg",
+      "group": "Destination guides",
+      "title": "Banff: detailed destination guide",
+      "note": "Original editorial context, interests and practical planning suggestions."
+    },
+    {
+      "number": 29,
+      "file": "shot-029.jpg",
+      "group": "Destination gallery",
+      "title": "Petra: searched gallery card",
+      "note": "Case-insensitive live destination search."
+    },
+    {
+      "number": 30,
+      "file": "shot-030.jpg",
+      "group": "Photography viewer",
+      "title": "Petra: photograph and destination metadata",
+      "note": "A source-credited photograph in the native viewer."
+    },
+    {
+      "number": 31,
+      "file": "shot-031.jpg",
+      "group": "Destination guides",
+      "title": "Petra: detailed destination guide",
+      "note": "Original editorial context, interests and practical planning suggestions."
+    },
+    {
+      "number": 32,
+      "file": "shot-032.jpg",
+      "group": "Destination gallery",
+      "title": "Singapore: searched gallery card",
+      "note": "Case-insensitive live destination search."
+    },
+    {
+      "number": 33,
+      "file": "shot-033.jpg",
+      "group": "Photography viewer",
+      "title": "Singapore: photograph and destination metadata",
+      "note": "A source-credited photograph in the native viewer."
+    },
+    {
+      "number": 34,
+      "file": "shot-034.jpg",
+      "group": "Destination guides",
+      "title": "Singapore: detailed destination guide",
+      "note": "Original editorial context, interests and practical planning suggestions."
+    },
+    {
+      "number": 35,
+      "file": "shot-035.jpg",
+      "group": "Destination gallery",
+      "title": "Jaipur: searched gallery card",
+      "note": "Case-insensitive live destination search."
+    },
+    {
+      "number": 36,
+      "file": "shot-036.jpg",
+      "group": "Photography viewer",
+      "title": "Jaipur: photograph and destination metadata",
+      "note": "A source-credited photograph in the native viewer."
+    },
+    {
+      "number": 37,
+      "file": "shot-037.jpg",
+      "group": "Destination guides",
+      "title": "Jaipur: detailed destination guide",
+      "note": "Original editorial context, interests and practical planning suggestions."
+    },
+    {
+      "number": 38,
+      "file": "shot-038.jpg",
+      "group": "Destination gallery",
+      "title": "Geirangerfjord: searched gallery card",
+      "note": "The eligible destination and current result count."
+    },
+    {
+      "number": 39,
+      "file": "shot-039.jpg",
+      "group": "Photography viewer",
+      "title": "Geirangerfjord: photograph and destination metadata",
+      "note": "Photography, location, category and creator attribution."
+    },
+    {
+      "number": 40,
+      "file": "shot-040.jpg",
+      "group": "Destination guides",
+      "title": "Geirangerfjord: detailed destination guide",
+      "note": "Sourced context, highlights, interests and general planning information."
+    },
+    {
+      "number": 41,
+      "file": "shot-041.jpg",
+      "group": "Destination gallery",
+      "title": "Ha Long Bay: searched gallery card",
+      "note": "The eligible destination and current result count."
+    },
+    {
+      "number": 42,
+      "file": "shot-042.jpg",
+      "group": "Photography viewer",
+      "title": "Ha Long Bay: photograph and destination metadata",
+      "note": "Photography, location, category and creator attribution."
+    },
+    {
+      "number": 43,
+      "file": "shot-043.jpg",
+      "group": "Destination guides",
+      "title": "Ha Long Bay: detailed destination guide",
+      "note": "Sourced context, highlights, interests and general planning information."
+    },
+    {
+      "number": 44,
+      "file": "shot-044.jpg",
+      "group": "Destination gallery",
+      "title": "Cape Town: searched gallery card",
+      "note": "The eligible destination and current result count."
+    },
+    {
+      "number": 45,
+      "file": "shot-045.jpg",
+      "group": "Photography viewer",
+      "title": "Cape Town: photograph and destination metadata",
+      "note": "Photography, location, category and creator attribution."
+    },
+    {
+      "number": 46,
+      "file": "shot-046.jpg",
+      "group": "Destination guides",
+      "title": "Cape Town: detailed destination guide",
+      "note": "Sourced context, highlights, interests and general planning information."
+    },
+    {
+      "number": 47,
+      "file": "shot-047.jpg",
+      "group": "Destination gallery",
+      "title": "Machu Picchu: searched gallery card",
+      "note": "The eligible destination and current result count."
+    },
+    {
+      "number": 48,
+      "file": "shot-048.jpg",
+      "group": "Photography viewer",
+      "title": "Machu Picchu: photograph and destination metadata",
+      "note": "Photography, location, category and creator attribution."
+    },
+    {
+      "number": 49,
+      "file": "shot-049.jpg",
+      "group": "Destination guides",
+      "title": "Machu Picchu: detailed destination guide",
+      "note": "Sourced context, highlights, interests and general planning information."
+    },
+    {
+      "number": 50,
+      "file": "shot-050.jpg",
+      "group": "Destination gallery",
+      "title": "Amalfi Coast: searched gallery card",
+      "note": "The eligible destination and current result count."
+    },
+    {
+      "number": 51,
+      "file": "shot-051.jpg",
+      "group": "Photography viewer",
+      "title": "Amalfi Coast: photograph and destination metadata",
+      "note": "Photography, location, category and creator attribution."
+    },
+    {
+      "number": 52,
+      "file": "shot-052.jpg",
+      "group": "Destination guides",
+      "title": "Amalfi Coast: detailed destination guide",
+      "note": "Sourced context, highlights, interests and general planning information."
+    },
+    {
+      "number": 53,
+      "file": "shot-053.jpg",
+      "group": "Destination gallery",
+      "title": "Skógafoss: searched gallery card",
+      "note": "The eligible destination and current result count."
+    },
+    {
+      "number": 54,
+      "file": "shot-054.jpg",
+      "group": "Photography viewer",
+      "title": "Skógafoss: photograph and destination metadata",
+      "note": "Photography, location, category and creator attribution."
+    },
+    {
+      "number": 55,
+      "file": "shot-055.jpg",
+      "group": "Destination guides",
+      "title": "Skógafoss: detailed destination guide",
+      "note": "Sourced context, highlights, interests and general planning information."
+    },
+    {
+      "number": 56,
+      "file": "shot-056.jpg",
+      "group": "Search and empty states",
+      "title": "Country search with mixed case and surrounding spaces",
+      "note": "The search result remains Kyoto, Japan."
+    },
+    {
+      "number": 57,
+      "file": "shot-057.jpg",
+      "group": "Search and empty states",
+      "title": "No results for an unmatched query",
+      "note": "An explicit empty state provides a reset action."
+    },
+    {
+      "number": 58,
+      "file": "shot-058.jpg",
+      "group": "Category filters",
+      "title": "Mountains: active category and matching gallery",
+      "note": "The selected category, live result count and eligible photographs."
+    },
+    {
+      "number": 59,
+      "file": "shot-059.jpg",
+      "group": "Category filters",
+      "title": "Beaches: active category and matching gallery",
+      "note": "The selected category, live result count and eligible photographs."
+    },
+    {
+      "number": 60,
+      "file": "shot-060.jpg",
+      "group": "Category filters",
+      "title": "Cities: active category and matching gallery",
+      "note": "The selected category, live result count and eligible photographs."
+    },
+    {
+      "number": 61,
+      "file": "shot-061.jpg",
+      "group": "Category filters",
+      "title": "Nature: active category and matching gallery",
+      "note": "The selected category, live result count and eligible photographs."
+    },
+    {
+      "number": 62,
+      "file": "shot-062.jpg",
+      "group": "Category filters",
+      "title": "Architecture: active category and matching gallery",
+      "note": "The selected category, live result count and eligible photographs."
+    },
+    {
+      "number": 63,
+      "file": "shot-063.jpg",
+      "group": "Category filters",
+      "title": "Culture: active category and matching gallery",
+      "note": "The selected category, live result count and eligible photographs."
+    },
+    {
+      "number": 64,
+      "file": "shot-064.jpg",
+      "group": "Sorting and layouts",
+      "title": "Destination sorting: A-Z",
+      "note": "Alphabetical ordering of the eligible edit."
+    },
+    {
+      "number": 65,
+      "file": "shot-065.jpg",
+      "group": "Sorting and layouts",
+      "title": "Destination sorting: Z-A",
+      "note": "Reverse alphabetical ordering without changing filters."
+    },
+    {
+      "number": 66,
+      "file": "shot-066.jpg",
+      "group": "Sorting and layouts",
+      "title": "Featured ordering restored",
+      "note": "The three featured destinations return to the front of the edit."
+    },
+    {
+      "number": 67,
+      "file": "shot-067.jpg",
+      "group": "Sorting and layouts",
+      "title": "Compact desktop gallery layout",
+      "note": "A denser grid uses the same destination records."
+    },
+    {
+      "number": 68,
+      "file": "shot-068.jpg",
+      "group": "Favorites and persistence",
+      "title": "Empty saved-places collection",
+      "note": "Useful guidance explains how to start a collection."
+    },
+    {
+      "number": 69,
+      "file": "shot-069.jpg",
+      "group": "Favorites and persistence",
+      "title": "Two saved destinations and synchronized hearts",
+      "note": "The header counter updates immediately after mouse/keyboard activation."
+    },
+    {
+      "number": 70,
+      "file": "shot-070.jpg",
+      "group": "Favorites and persistence",
+      "title": "Saved-only gallery after refresh",
+      "note": "localStorage persists favorite identifiers in the same browser origin."
+    },
+    {
+      "number": 71,
+      "file": "shot-071.jpg",
+      "group": "Favorites and persistence",
+      "title": "Favorites intersected with Mountains",
+      "note": "The saved collection narrows to Dolomites."
+    },
+    {
+      "number": 72,
+      "file": "shot-072.jpg",
+      "group": "Keyboard accessibility",
+      "title": "Visible keyboard focus within the photograph viewer",
+      "note": "The focus ring identifies the slideshow duration control at the dialog boundary."
+    },
+    {
+      "number": 73,
+      "file": "shot-073.jpg",
+      "group": "Random discovery",
+      "title": "Surprise me: Patagonia from the Mountains edit",
+      "note": "Random discovery opens an eligible destination guide."
+    },
+    {
+      "number": 74,
+      "file": "shot-074.jpg",
+      "group": "Destination comparison",
+      "title": "One selected destination: comparison is disabled",
+      "note": "The tray asks for one more place."
+    },
+    {
+      "number": 75,
+      "file": "shot-075.jpg",
+      "group": "Destination comparison",
+      "title": "Two-place comparison: Dolomites and Kyoto",
+      "note": "Qualitative details appear together with links to each guide."
+    },
+    {
+      "number": 76,
+      "file": "shot-076.jpg",
+      "group": "Destination comparison",
+      "title": "Three-place comparison: Dolomites, Kyoto and Bali",
+      "note": "The supported maximum is three selected destinations."
+    },
+    {
+      "number": 77,
+      "file": "shot-077.jpg",
+      "group": "Destination comparison",
+      "title": "Fourth-selection limit feedback",
+      "note": "A visible message asks the user to remove an existing choice."
+    },
+    {
+      "number": 78,
+      "file": "shot-078.jpg",
+      "group": "Destination comparison",
+      "title": "Comparison choices retained across gallery filtering",
+      "note": "Kyoto and Bali remain selected even when Mountains is active."
+    },
+    {
+      "number": 79,
+      "file": "shot-079.jpg",
+      "group": "Interactive destination maps",
+      "title": "Dolomites: representative location on OpenStreetMap",
+      "note": "A sourced representative pin, nearby map context and visible contributor attribution."
+    },
+    {
+      "number": 80,
+      "file": "shot-080.jpg",
+      "group": "Interactive destination maps",
+      "title": "Kyoto: representative location on OpenStreetMap",
+      "note": "A sourced representative pin, nearby map context and visible contributor attribution."
+    },
+    {
+      "number": 81,
+      "file": "shot-081.jpg",
+      "group": "Interactive destination maps",
+      "title": "Santorini: representative location on OpenStreetMap",
+      "note": "A sourced representative pin, nearby map context and visible contributor attribution."
+    },
+    {
+      "number": 82,
+      "file": "shot-082.jpg",
+      "group": "Interactive destination maps",
+      "title": "Patagonia: representative location on OpenStreetMap",
+      "note": "A sourced representative pin, nearby map context and visible contributor attribution."
+    },
+    {
+      "number": 83,
+      "file": "shot-083.jpg",
+      "group": "Interactive destination maps",
+      "title": "Bali: representative location on OpenStreetMap",
+      "note": "A sourced representative pin, nearby map context and visible contributor attribution."
+    },
+    {
+      "number": 84,
+      "file": "shot-084.jpg",
+      "group": "Interactive destination maps",
+      "title": "New York City: representative location on OpenStreetMap",
+      "note": "A sourced representative pin, nearby map context and visible contributor attribution."
+    },
+    {
+      "number": 85,
+      "file": "shot-085.jpg",
+      "group": "Interactive destination maps",
+      "title": "Cappadocia: representative location on OpenStreetMap",
+      "note": "The selected landmark/viewpoint is mapped; the guide remains available beside it."
+    },
+    {
+      "number": 86,
+      "file": "shot-086.jpg",
+      "group": "Interactive destination maps",
+      "title": "Marrakech: representative location on OpenStreetMap",
+      "note": "The selected landmark/viewpoint is mapped; the guide remains available beside it."
+    },
+    {
+      "number": 87,
+      "file": "shot-087.jpg",
+      "group": "Interactive destination maps",
+      "title": "Banff: representative location on OpenStreetMap",
+      "note": "The selected landmark/viewpoint is mapped; the guide remains available beside it."
+    },
+    {
+      "number": 88,
+      "file": "shot-088.jpg",
+      "group": "Interactive destination maps",
+      "title": "Petra: representative location on OpenStreetMap",
+      "note": "The selected landmark/viewpoint is mapped; the guide remains available beside it."
+    },
+    {
+      "number": 89,
+      "file": "shot-089.jpg",
+      "group": "Interactive destination maps",
+      "title": "Singapore: representative location on OpenStreetMap",
+      "note": "The selected landmark/viewpoint is mapped; the guide remains available beside it."
+    },
+    {
+      "number": 90,
+      "file": "shot-090.jpg",
+      "group": "Interactive destination maps",
+      "title": "Jaipur: representative location on OpenStreetMap",
+      "note": "The selected landmark/viewpoint is mapped; the guide remains available beside it."
+    },
+    {
+      "number": 91,
+      "file": "shot-091.jpg",
+      "group": "Interactive destination maps",
+      "title": "Geirangerfjord: representative location on OpenStreetMap",
+      "note": "A location reference rather than a route or precise visitor entrance."
+    },
+    {
+      "number": 92,
+      "file": "shot-092.jpg",
+      "group": "Interactive destination maps",
+      "title": "Ha Long Bay: representative location on OpenStreetMap",
+      "note": "A location reference rather than a route or precise visitor entrance."
+    },
+    {
+      "number": 93,
+      "file": "shot-093.jpg",
+      "group": "Interactive destination maps",
+      "title": "Cape Town: representative location on OpenStreetMap",
+      "note": "A location reference rather than a route or precise visitor entrance."
+    },
+    {
+      "number": 94,
+      "file": "shot-094.jpg",
+      "group": "Interactive destination maps",
+      "title": "Machu Picchu: representative location on OpenStreetMap",
+      "note": "A location reference rather than a route or precise visitor entrance."
+    },
+    {
+      "number": 95,
+      "file": "shot-095.jpg",
+      "group": "Interactive destination maps",
+      "title": "Amalfi Coast: representative location on OpenStreetMap",
+      "note": "A location reference rather than a route or precise visitor entrance."
+    },
+    {
+      "number": 96,
+      "file": "shot-096.jpg",
+      "group": "Interactive destination maps",
+      "title": "Skógafoss: representative location on OpenStreetMap",
+      "note": "A location reference rather than a route or precise visitor entrance."
+    },
+    {
+      "number": 97,
+      "file": "shot-097.jpg",
+      "group": "Interactive destination maps",
+      "title": "Map zoom control in use at Skógafoss",
+      "note": "The embedded provider supports nearby exploration using native map controls."
+    },
+    {
+      "number": 98,
+      "file": "shot-098.jpg",
+      "group": "Responsive layouts",
+      "title": "Landing page at 1024 px viewport",
+      "note": "The same semantic interface adapts to this screen width."
+    },
+    {
+      "number": 99,
+      "file": "shot-099.jpg",
+      "group": "Responsive layouts",
+      "title": "Landing page at 768 px viewport",
+      "note": "The same semantic interface adapts to this screen width."
+    },
+    {
+      "number": 100,
+      "file": "shot-100.jpg",
+      "group": "Responsive layouts",
+      "title": "Landing page at 390 px viewport",
+      "note": "The same semantic interface adapts to this screen width."
+    },
+    {
+      "number": 101,
+      "file": "shot-101.jpg",
+      "group": "Responsive layouts",
+      "title": "Landing page at 320 px viewport",
+      "note": "The same semantic interface adapts to this screen width."
+    },
+    {
+      "number": 102,
+      "file": "shot-102.jpg",
+      "group": "Responsive layouts",
+      "title": "Phone navigation expanded at 320 px",
+      "note": "Accessible expanded state and links to real page sections."
+    },
+    {
+      "number": 103,
+      "file": "shot-103.jpg",
+      "group": "Responsive layouts",
+      "title": "Photograph viewer at 320 px",
+      "note": "Phone-scale viewer keeps navigation, saving and close controls available."
+    },
+    {
+      "number": 104,
+      "file": "shot-104.jpg",
+      "group": "Responsive layouts",
+      "title": "Destination guide at 320 px",
+      "note": "Guide content stacks into one column with source and map links."
+    },
+    {
+      "number": 105,
+      "file": "shot-105.jpg",
+      "group": "Slideshow playback",
+      "title": "Slideshow playing: Architecture edit",
+      "note": "Playback is explicitly started and a three-second slide duration is selected."
+    },
+    {
+      "number": 106,
+      "file": "shot-106.jpg",
+      "group": "Slideshow playback",
+      "title": "Automatic slideshow advance to Jaipur",
+      "note": "The next eligible photograph is displayed automatically."
+    },
+    {
+      "number": 107,
+      "file": "shot-107.jpg",
+      "group": "Slideshow playback",
+      "title": "Slideshow paused using the P shortcut",
+      "note": "Paused status and explicit Play control are visible."
+    },
+    {
+      "number": 108,
+      "file": "shot-108.jpg",
+      "group": "Responsive layouts",
+      "title": "Destination comparison at 390 px",
+      "note": "Comparison details become stacked cards on a phone viewport."
+    },
+    {
+      "number": 109,
+      "file": "shot-109.jpg",
+      "group": "Responsive layouts",
+      "title": "Tablet gallery at 768 px",
+      "note": "Filters, search and a two-column photo grid remain available."
+    },
+    {
+      "number": 110,
+      "file": "shot-110.jpg",
+      "group": "Landing and navigation",
+      "title": "Editorial collections and footer",
+      "note": "Category shortcuts, creator attribution and documentation links."
+    }
+  ],
+  "testCases": [
+    {
+      "id": "TC-01",
+      "module": "Rendering",
+      "scenario": "Load the page and render all 18 destination cards",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "18 destination cards rendered."
+    },
+    {
+      "id": "TC-02",
+      "module": "Accessibility",
+      "scenario": "Check meaningful alternative text on gallery photographs",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All 18 gallery images have descriptive alternatives."
+    },
+    {
+      "id": "TC-03",
+      "module": "Search",
+      "scenario": "Search for destinations and narrow the gallery",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Single matching destination shown for the searched place."
+    },
+    {
+      "id": "TC-04",
+      "module": "Lightbox",
+      "scenario": "Open photographs and display their matching metadata",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Six destination viewers opened correctly and closed with Escape."
+    },
+    {
+      "id": "TC-05",
+      "module": "Guides",
+      "scenario": "Expand detailed guides and verify three highlights",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Overview and three highlights shown for the selected destination."
+    },
+    {
+      "id": "TC-06",
+      "module": "Guides",
+      "scenario": "Provide source and location links in destination guides",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Geographic reference and map links are populated."
+    },
+    {
+      "id": "TC-07",
+      "module": "Keyboard",
+      "scenario": "Close the native viewer using Escape",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Viewer closes and page becomes available again."
+    },
+    {
+      "id": "TC-08",
+      "module": "Search",
+      "scenario": "Ignore case and surrounding whitespace when matching country",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Padded mixed-case Japan search returns Kyoto."
+    },
+    {
+      "id": "TC-09",
+      "module": "Search",
+      "scenario": "Clear only the search query",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All 18 eligible cards return."
+    },
+    {
+      "id": "TC-10",
+      "module": "Empty states",
+      "scenario": "Display a useful empty state for an unmatched query",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "No-place message and recovery action shown."
+    },
+    {
+      "id": "TC-11",
+      "module": "Filters",
+      "scenario": "Reset to the complete eligible edit",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Reset restores all 18 places."
+    },
+    {
+      "id": "TC-12",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Mountains",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Mountains destinations, no other category."
+    },
+    {
+      "id": "TC-13",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Beaches",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Beaches destinations, no other category."
+    },
+    {
+      "id": "TC-14",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Cities",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Cities destinations, no other category."
+    },
+    {
+      "id": "TC-15",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Nature",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "4 matching Nature destinations, no other category."
+    },
+    {
+      "id": "TC-16",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Architecture",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "2 matching Architecture destinations, no other category."
+    },
+    {
+      "id": "TC-17",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Culture",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Culture destinations, no other category."
+    },
+    {
+      "id": "TC-18",
+      "module": "Sorting",
+      "scenario": "Sort destinations alphabetically A-Z",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Alphabetical order starts with Amalfi Coast."
+    },
+    {
+      "id": "TC-19",
+      "module": "Sorting",
+      "scenario": "Sort destinations alphabetically Z-A",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Reverse alphabetical order starts with Skógafoss."
+    },
+    {
+      "id": "TC-20",
+      "module": "Layout",
+      "scenario": "Switch to the compact grid",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Compact grid class and selected control updated."
+    },
+    {
+      "id": "TC-21",
+      "module": "Favorites",
+      "scenario": "Toggle favorites without opening a photograph",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Two saved places; photograph dialog remains closed."
+    },
+    {
+      "id": "TC-22",
+      "module": "Persistence",
+      "scenario": "Retain favorites after a page refresh",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Saved count remains two after reload."
+    },
+    {
+      "id": "TC-23",
+      "module": "Favorites",
+      "scenario": "Show only saved places",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Only Dolomites and Kyoto remain in the collection."
+    },
+    {
+      "id": "TC-24",
+      "module": "Keyboard",
+      "scenario": "Activate a focused photograph using Enter",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Native button activation opens the matching photograph."
+    },
+    {
+      "id": "TC-25",
+      "module": "Keyboard",
+      "scenario": "Navigate with ArrowRight inside the viewer",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "The next photograph is Kyoto."
+    },
+    {
+      "id": "TC-26",
+      "module": "Keyboard focus",
+      "scenario": "Keep focus within the open viewer",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Shift+Tab from Close wraps to the visible duration selector."
+    },
+    {
+      "id": "TC-27",
+      "module": "Keyboard focus",
+      "scenario": "Restore the opening card after Escape",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Focus returns to the Dolomites photo button."
+    },
+    {
+      "id": "TC-28",
+      "module": "Discovery",
+      "scenario": "Choose a random destination from the active category",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Patagonia belongs to the selected Mountains edit."
+    },
+    {
+      "id": "TC-29",
+      "module": "Comparison",
+      "scenario": "Require at least two destinations to compare",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "One selection leaves Compare places disabled."
+    },
+    {
+      "id": "TC-30",
+      "module": "Comparison",
+      "scenario": "Compare two selected destinations",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Two destination columns contain location, highlights, interests and context."
+    },
+    {
+      "id": "TC-31",
+      "module": "Comparison limits",
+      "scenario": "Reject a fourth selected destination",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Three selections retained and a limit message displayed."
+    },
+    {
+      "id": "TC-32",
+      "module": "Comparison focus",
+      "scenario": "Close comparison with Escape and restore focus",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Focus returns to Compare places."
+    },
+    {
+      "id": "TC-33",
+      "module": "Map",
+      "scenario": "Offer map choices from the eligible edit",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All 18 destinations are offered when no filter is active."
+    },
+    {
+      "id": "TC-34",
+      "module": "Map",
+      "scenario": "Center the embed on the selected destination",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Kyoto map marker uses the sourced Kinkaku-ji coordinate pair."
+    },
+    {
+      "id": "TC-35",
+      "module": "Map interaction",
+      "scenario": "Operate the embedded map zoom control",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "After the zoom animation settles, the provider reports the updated zoom level."
+    },
+    {
+      "id": "TC-36",
+      "module": "Slideshow",
+      "scenario": "Start, advance automatically, and pause playback with P",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Automatic advance to Jaipur observed; P changes playback to paused."
+    },
+    {
+      "id": "TC-37",
+      "module": "Mobile navigation",
+      "scenario": "Open the phone navigation menu",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Menu is expanded with actual section links."
+    },
+    {
+      "id": "TC-38",
+      "module": "Responsive layout",
+      "scenario": "Check 1024, 768, 390 and 320 px widths for horizontal overflow",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All four additional widths fit without horizontal document overflow."
+    },
+    {
+      "id": "TC-39",
+      "module": "Browser diagnostics",
+      "scenario": "Check application-script warning and error entries",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "No application-script warning or error entries observed."
+    },
+    {
+      "id": "TC-40",
+      "module": "Automated verification",
+      "scenario": "Run the complete dependency-free Node test suite",
+      "result": "Passed",
+      "type": "Automated",
+      "actual": "36 tests executed, 36 passed, zero failed; TAP output retained."
+    }
+  ],
+  "testAttempts": [
+    {
+      "id": "TC-01",
+      "module": "Rendering",
+      "scenario": "Load the page and render all 18 destination cards",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "18 destination cards rendered."
+    },
+    {
+      "id": "TC-02",
+      "module": "Accessibility",
+      "scenario": "Check meaningful alternative text on gallery photographs",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All 18 gallery images have descriptive alternatives."
+    },
+    {
+      "id": "TC-03",
+      "module": "Search",
+      "scenario": "Search for destinations and narrow the gallery",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Single matching destination shown for the searched place."
+    },
+    {
+      "id": "TC-04",
+      "module": "Lightbox",
+      "scenario": "Open photographs and display their matching metadata",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Six destination viewers opened correctly and closed with Escape."
+    },
+    {
+      "id": "TC-05",
+      "module": "Guides",
+      "scenario": "Expand detailed guides and verify three highlights",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Overview and three highlights shown for the selected destination."
+    },
+    {
+      "id": "TC-06",
+      "module": "Guides",
+      "scenario": "Provide source and location links in destination guides",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Geographic reference and map links are populated."
+    },
+    {
+      "id": "TC-07",
+      "module": "Keyboard",
+      "scenario": "Close the native viewer using Escape",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Viewer closes and page becomes available again."
+    },
+    {
+      "id": "TC-08",
+      "module": "Search",
+      "scenario": "Ignore case and surrounding whitespace when matching country",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Padded mixed-case Japan search returns Kyoto."
+    },
+    {
+      "id": "TC-09",
+      "module": "Search",
+      "scenario": "Clear only the search query",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All 18 eligible cards return."
+    },
+    {
+      "id": "TC-10",
+      "module": "Empty states",
+      "scenario": "Display a useful empty state for an unmatched query",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "No-place message and recovery action shown."
+    },
+    {
+      "id": "TC-11",
+      "module": "Filters",
+      "scenario": "Reset to the complete eligible edit",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Reset restores all 18 places."
+    },
+    {
+      "id": "TC-12",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Mountains",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Mountains destinations, no other category."
+    },
+    {
+      "id": "TC-13",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Beaches",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Beaches destinations, no other category."
+    },
+    {
+      "id": "TC-14",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Cities",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Cities destinations, no other category."
+    },
+    {
+      "id": "TC-15",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Nature",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "4 matching Nature destinations, no other category."
+    },
+    {
+      "id": "TC-16",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Architecture",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "2 matching Architecture destinations, no other category."
+    },
+    {
+      "id": "TC-17",
+      "module": "Categories",
+      "scenario": "Filter the gallery by Culture",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "3 matching Culture destinations, no other category."
+    },
+    {
+      "id": "TC-18",
+      "module": "Sorting",
+      "scenario": "Sort destinations alphabetically A-Z",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Alphabetical order starts with Amalfi Coast."
+    },
+    {
+      "id": "TC-19",
+      "module": "Sorting",
+      "scenario": "Sort destinations alphabetically Z-A",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Reverse alphabetical order starts with Skógafoss."
+    },
+    {
+      "id": "TC-20",
+      "module": "Layout",
+      "scenario": "Switch to the compact grid",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Compact grid class and selected control updated."
+    },
+    {
+      "id": "TC-21",
+      "module": "Favorites",
+      "scenario": "Toggle favorites without opening a photograph",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Two saved places; photograph dialog remains closed."
+    },
+    {
+      "id": "TC-22",
+      "module": "Persistence",
+      "scenario": "Retain favorites after a page refresh",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Saved count remains two after reload."
+    },
+    {
+      "id": "TC-23",
+      "module": "Favorites",
+      "scenario": "Show only saved places",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Only Dolomites and Kyoto remain in the collection."
+    },
+    {
+      "id": "TC-24",
+      "module": "Keyboard",
+      "scenario": "Activate a focused photograph using Enter",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Native button activation opens the matching photograph."
+    },
+    {
+      "id": "TC-25",
+      "module": "Keyboard",
+      "scenario": "Navigate with ArrowRight inside the viewer",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "The next photograph is Kyoto."
+    },
+    {
+      "id": "TC-26",
+      "module": "Keyboard focus",
+      "scenario": "Keep focus within the open viewer",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Shift+Tab from Close wraps to the visible duration selector."
+    },
+    {
+      "id": "TC-27",
+      "module": "Keyboard focus",
+      "scenario": "Restore the opening card after Escape",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Focus returns to the Dolomites photo button."
+    },
+    {
+      "id": "TC-28",
+      "module": "Discovery",
+      "scenario": "Choose a random destination from the active category",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Patagonia belongs to the selected Mountains edit."
+    },
+    {
+      "id": "TC-29",
+      "module": "Comparison",
+      "scenario": "Require at least two destinations to compare",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "One selection leaves Compare places disabled."
+    },
+    {
+      "id": "TC-30",
+      "module": "Comparison",
+      "scenario": "Compare two selected destinations",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Two destination columns contain location, highlights, interests and context."
+    },
+    {
+      "id": "TC-32",
+      "module": "Comparison focus",
+      "scenario": "Close comparison with Escape and restore focus",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Focus returns to Compare places."
+    },
+    {
+      "id": "TC-31",
+      "module": "Comparison limits",
+      "scenario": "Reject a fourth selected destination",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Three selections retained and a limit message displayed."
+    },
+    {
+      "id": "TC-33",
+      "module": "Map",
+      "scenario": "Offer map choices from the eligible edit",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All 18 destinations are offered when no filter is active."
+    },
+    {
+      "id": "TC-34",
+      "module": "Map",
+      "scenario": "Center the embed on the selected destination",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Kyoto map marker uses the sourced Kinkaku-ji coordinate pair."
+    },
+    {
+      "id": "TC-35",
+      "module": "Map interaction",
+      "scenario": "Operate the embedded map zoom control",
+      "result": "Failed",
+      "type": "Browser",
+      "actual": "The map provider reports a changed zoom level after Zoom In."
+    },
+    {
+      "id": "TC-35",
+      "module": "Map interaction",
+      "scenario": "Operate the embedded map zoom control",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "After the zoom animation settles, the provider reports the updated zoom level."
+    },
+    {
+      "id": "TC-38",
+      "module": "Responsive layout",
+      "scenario": "Check 1024, 768, 390 and 320 px widths for horizontal overflow",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "All four additional widths fit without horizontal document overflow."
+    },
+    {
+      "id": "TC-37",
+      "module": "Mobile navigation",
+      "scenario": "Open the phone navigation menu",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Menu is expanded with actual section links."
+    },
+    {
+      "id": "TC-36",
+      "module": "Slideshow",
+      "scenario": "Start, advance automatically, and pause playback with P",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "Automatic advance to Jaipur observed; P changes playback to paused."
+    },
+    {
+      "id": "TC-39",
+      "module": "Browser diagnostics",
+      "scenario": "Check application-script warning and error entries",
+      "result": "Passed",
+      "type": "Browser",
+      "actual": "No application-script warning or error entries observed."
+    },
+    {
+      "id": "TC-40",
+      "module": "Automated verification",
+      "scenario": "Run the complete dependency-free Node test suite",
+      "result": "Passed",
+      "type": "Automated",
+      "actual": "36 tests executed, 36 passed, zero failed; TAP output retained."
+    }
+  ],
+  "responsive": [
+    {
+      "scrollWidth": 1009,
+      "width": 1024
+    },
+    {
+      "scrollWidth": 753,
+      "width": 768
+    },
+    {
+      "scrollWidth": 375,
+      "width": 390
+    },
+    {
+      "scrollWidth": 305,
+      "width": 320
+    }
+  ],
+  "notes": [
+    "One immediate map-zoom assertion sampled the animation before its settled state. TC-35 passed on observation after the animation. The failed attempt is retained.",
+    "Screenshot states are actual local-browser captures. No user accounts or server-side backend are present."
+  ]
+}

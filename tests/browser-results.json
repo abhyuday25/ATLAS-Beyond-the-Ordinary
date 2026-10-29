@@ -1,0 +1,222 @@
+{
+  "date": "2026-10-29",
+  "browser": "Chromium-based in-app browser",
+  "checks": [
+    {
+      "id": "B01-render",
+      "pass": true
+    },
+    {
+      "id": "B02-category",
+      "pass": true
+    },
+    {
+      "id": "B03-combined-search",
+      "pass": true
+    },
+    {
+      "id": "B04-clear-search",
+      "pass": true
+    },
+    {
+      "id": "B05-empty",
+      "pass": true
+    },
+    {
+      "id": "B06-sort-az",
+      "pass": true
+    },
+    {
+      "id": "B07-sort-za",
+      "pass": true
+    },
+    {
+      "id": "B08-favorite-without-dialog",
+      "pass": true
+    },
+    {
+      "id": "B09-favorites-view",
+      "pass": true
+    },
+    {
+      "id": "B10-persistence",
+      "pass": true
+    },
+    {
+      "id": "B11-enter-open",
+      "pass": true
+    },
+    {
+      "id": "B12-initial-focus",
+      "pass": true
+    },
+    {
+      "id": "B13-boundary",
+      "pass": true
+    },
+    {
+      "id": "B14-arrow-next",
+      "pass": true
+    },
+    {
+      "id": "B15-arrow-previous",
+      "pass": true
+    },
+    {
+      "id": "B16-mouse-next",
+      "pass": true
+    },
+    {
+      "id": "B17-inside-stays-open",
+      "pass": true
+    },
+    {
+      "id": "B18-f-shortcut",
+      "pass": true
+    },
+    {
+      "id": "B19-shift-tab-wrap",
+      "pass": true
+    },
+    {
+      "id": "B20-tab-wrap",
+      "pass": true
+    },
+    {
+      "id": "B21-escape-close",
+      "pass": true
+    },
+    {
+      "id": "B22-focus-restore",
+      "pass": true
+    },
+    {
+      "id": "B23-space-open",
+      "pass": true
+    },
+    {
+      "id": "B24-click-close",
+      "pass": true
+    },
+    {
+      "id": "B25-search-shortcut",
+      "pass": true
+    },
+    {
+      "id": "B26-typing-safe",
+      "pass": true
+    },
+    {
+      "id": "B27-compact",
+      "pass": true
+    },
+    {
+      "id": "B28-backdrop-close",
+      "pass": true
+    },
+    {
+      "id": "B29-repeated-open-single-navigation",
+      "pass": true
+    },
+    {
+      "id": "B30-unsave-dialog-snapshot",
+      "pass": true
+    },
+    {
+      "id": "B31-snapshot-next",
+      "pass": true
+    },
+    {
+      "id": "B32-empty-favorites-focus",
+      "pass": true
+    },
+    {
+      "id": "R1440",
+      "pass": true
+    },
+    {
+      "id": "R1024",
+      "pass": true
+    },
+    {
+      "id": "R768",
+      "pass": true
+    },
+    {
+      "id": "R390",
+      "pass": true
+    },
+    {
+      "id": "R320",
+      "pass": true
+    },
+    {
+      "id": "B33-menu-open",
+      "pass": true
+    },
+    {
+      "id": "B34-menu-escape",
+      "pass": true
+    },
+    {
+      "id": "B35-menu-link-close",
+      "pass": true
+    },
+    {
+      "id": "B36-mobile-dialog-fit",
+      "pass": true
+    },
+    {
+      "id": "B37-narrow-header-spacing",
+      "pass": true
+    },
+    {
+      "id": "C-Mountains",
+      "pass": true
+    },
+    {
+      "id": "C-Beaches",
+      "pass": true
+    },
+    {
+      "id": "C-Cities",
+      "pass": true
+    },
+    {
+      "id": "C-Nature",
+      "pass": true
+    },
+    {
+      "id": "C-Architecture",
+      "pass": true
+    },
+    {
+      "id": "C-Culture",
+      "pass": true
+    },
+    {
+      "id": "B38-last-boundary",
+      "pass": true
+    },
+    {
+      "id": "B39-last-no-wrap",
+      "pass": true
+    },
+    {
+      "id": "B40-space-favorite",
+      "pass": true
+    },
+    {
+      "id": "B41-collection-action",
+      "pass": true
+    },
+    {
+      "id": "B42-metadata-alt",
+      "pass": true
+    },
+    {
+      "id": "B43-scroll-lock-released",
+      "pass": true
+    }
+  ]
+}

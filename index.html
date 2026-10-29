@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#030407">
+  <meta name="description" content="ATLAS: a curated photographic journey through extraordinary destinations. Explore, discover, and save your somewhere.">
+  <title>ATLAS — Beyond the Ordinary</title>
+  <link rel="icon" href="assets/compass.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="css/styles.css">
+  <script src="js/data.js" defer></script>
+  <script src="js/logic.js" defer></script>
+  <script src="js/app.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#gallery">Skip to gallery</a>
+  <header class="header wrap">
+    <a class="brand" href="#explore" aria-label="ATLAS home"><img src="assets/compass.svg" alt="" width="30" height="30">ATLAS<span class="brand-caption">A DIFFERENT PERSPECTIVE</span></a>
+    <button class="icon-button menu-toggle" id="menu-toggle" aria-label="Open navigation" aria-controls="navigation" aria-expanded="false">☰</button>
+    <nav id="navigation" aria-label="Main navigation">
+      <a href="#explore" class="active" aria-current="location">Explore</a>
+      <a href="#gallery">Destinations</a>
+      <a href="#collections">Collections</a>
+    </nav>
+    <div class="header-actions"><button id="header-favorites" class="text-button" aria-pressed="false"><span aria-hidden="true">♡</span> <span class="saved-label">Saved places</span> <span id="favorite-count" class="count">0</span></button><span class="header-divider"></span><button id="search-trigger" class="icon-button" aria-label="Focus gallery search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg></button></div>
+  </header>
+  <main>
+    <noscript><p class="wrap">ATLAS needs JavaScript for its interactive gallery. Enable JavaScript, then reload this page.</p></noscript>
+    <section id="explore" class="hero wrap" aria-labelledby="hero-title">
+      <div class="hero-image" role="img" aria-label="Dolomite mountain peaks rising above a forested valley"><img id="hero-photo" alt="" fetchpriority="high"><div class="hero-shade"></div></div>
+      <div class="hero-topline"><span><i class="lime-dot"></i> THE WORLD IS WAITING</span><span>EST. 2026 &nbsp; / &nbsp; VOL. 01</span></div>
+      <div class="hero-copy"><p class="eyebrow">FOR THE PLACES THAT STAY WITH YOU</p><h1 id="hero-title">Beyond the<br><em>Ordinary.</em><span class="heading-dot">●</span></h1><p>Discover extraordinary places, unforgettable landscapes,<br class="desktop-break"> and the quiet beauty hidden in every corner of our planet.</p><div class="hero-actions"><a class="button primary" href="#gallery">Explore the gallery <span aria-hidden="true">↗</span></a><a class="hero-secondary" href="#gallery">Discover destinations <span aria-hidden="true">↗</span></a></div></div>
+      <div class="hero-bottom"><a href="#gallery" class="scroll-link"><span aria-hidden="true">↓</span> SCROLL TO WANDER</a><div class="field-note"><span class="eyebrow">FIELD NOTES / 001</span><span>A little further. A little wilder.</span><a href="docs/IMAGE_CREDITS.md">Dolomites · kallerna · CC BY-SA 4.0 ↗</a></div><div class="hero-count"><strong>18</strong><span>DESTINATIONS<br>ENDLESS PERSPECTIVES</span></div></div>
+    </section>
+    <div class="manifesto wrap"><span>THE WORLD, ONE FRAME AT A TIME.</span><span>Curated with curiosity. Collected for you. <span aria-hidden="true">✳</span></span></div>
+    <section id="gallery" class="gallery-section wrap" aria-labelledby="gallery-title">
+      <div class="section-heading"><div><p class="eyebrow"><span class="blue-line"></span> THE ATLAS EDIT</p><h2 id="gallery-title">Find Your <em>Somewhere.</em></h2><p>From remote landscapes to cities that never sleep.</p></div><span class="collection-count"><strong>18</strong> places. A world of possibilities.</span></div>
+      <div class="gallery-toolbar"><div class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><label class="sr-only" for="search">Search destinations, countries, or keywords</label><input id="search" type="search" placeholder="Where will your curiosity take you?" autocomplete="off"><button id="clear-search" class="icon-button" aria-label="Clear search" hidden>×</button><kbd>Ctrl K</kbd></div><div class="sort-field"><label for="sort">Sort by</label><select id="sort"><option value="featured">Featured</option><option value="az">Destination A–Z</option><option value="za">Destination Z–A</option></select></div><div class="layout-buttons" aria-label="Gallery layout"><button class="icon-button selected" id="grid-layout" aria-label="Large grid layout" aria-pressed="true">▦</button><button class="icon-button" id="compact-layout" aria-label="Compact grid layout" aria-pressed="false">▤</button></div></div>
+      <div class="filter-row"><div id="filters" class="filters" aria-label="Filter by category"></div><button id="favorites-only" class="text-button" aria-pressed="false"><span aria-hidden="true">♡</span> My collection</button></div>
+      <div class="discovery-tools" aria-label="Discover destinations">
+        <button id="surprise-me" class="button">Surprise me <span aria-hidden="true">↗</span></button>
+        <button id="toggle-map" class="button" aria-expanded="false" aria-controls="destination-map">Explore the map <span aria-hidden="true">⌖</span></button>
+        <button id="start-slideshow" class="button">Play this edit <span aria-hidden="true">▷</span></button>
+        <p>Discover a place, find your bearings, or let the world come to you.</p>
+      </div>
+      <div class="results-bar"><p id="result-count" role="status" aria-live="polite" aria-atomic="true"></p><button id="reset-filters" class="text-button" hidden>Reset filters <span aria-hidden="true">↺</span></button><span class="results-note">A NEW PERSPECTIVE IN EVERY FRAME <span aria-hidden="true">↙</span></span></div>
+      <section id="destination-map" class="destination-map" aria-labelledby="map-title" hidden>
+        <div class="map-heading"><div><p class="eyebrow">GET YOUR BEARINGS</p><h3 id="map-title">A place in the world.</h3></div><button id="close-map" class="icon-button" aria-label="Close destination map">×</button></div>
+        <div class="map-content"><div class="map-sidebar"><label for="map-place">Choose from the current edit</label><select id="map-place"></select><p id="map-description"></p><p id="map-coordinates" class="eyebrow"></p><button id="map-guide" class="button primary">Discover this place ↗</button><a id="open-map" target="_blank" rel="noopener noreferrer">Open a larger map ↗</a><p class="map-note">Pan and zoom to explore nearby. The pin marks a representative landmark or viewpoint. Map needs internet; if it does not load, use the larger-map link.</p><a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap contributors · ODbL</a></div><iframe id="map-frame" title="Interactive destination map" loading="lazy" referrerpolicy="no-referrer" allowfullscreen></iframe></div>
+        <p id="map-empty" hidden>No destinations match. Reset your filters to explore the map.</p>
+      </section>
+      <div id="photo-grid" class="photo-grid"></div>
+      <div id="empty-state" class="empty-state" hidden><span aria-hidden="true">⌖</span><h3>No places found. Keep wandering.</h3><p id="empty-message"></p><button class="button primary" id="empty-reset">Explore all destinations ↗</button></div>
+      <div class="gallery-end"><span></span><p>You've seen the edit. Where to next?</p><span></span></div>
+    </section>
+    <section class="collections wrap" id="collections" aria-labelledby="collections-title"><div><p class="eyebrow">YOUR NEXT CHAPTER</p><h2 id="collections-title">Some places call.<br><em>Follow the feeling.</em></h2><p>Start with a landscape. Leave with a little inspiration.</p></div><div class="collection-links"><button data-collection="Mountains"><span>01 / SEEK THE SUMMIT</span><strong>Into the mountains <span>↗</span></strong></button><button data-collection="Beaches"><span>02 / TAKE THE SLOW ROAD</span><strong>By the water <span>↗</span></strong></button><button data-collection="Culture"><span>03 / GO A LITTLE DEEPER</span><strong>Stories & traditions <span>↗</span></strong></button></div></section>
+  </main>
+  <aside id="comparison-tray" class="comparison-tray" aria-label="Selected destinations for comparison" hidden><div><p class="eyebrow">SIDE BY SIDE</p><p id="comparison-summary" role="status" aria-live="polite"></p></div><div id="comparison-chips"></div><button id="open-comparison" class="button primary" disabled>Compare places</button><button id="clear-comparison" class="text-button">Clear selection</button></aside>
+  <footer class="wrap"><div class="footer-top"><a class="brand" href="#explore"><img src="assets/compass.svg" alt="" width="30" height="30">ATLAS</a><p>For the endlessly curious.<br>The world, one frame at a time.</p><nav aria-label="Footer"><a href="#explore">Back to top ↑</a><a href="#gallery">Explore destinations</a><a href="docs/IMAGE_CREDITS.md">Image sources & credits ↗</a><a href="docs/DESTINATION_SOURCES.md">Destination sources ↗</a></nav></div><div class="footer-bottom"><span>© <span id="year">2026</span> ATLAS. A frontend design & testing demonstration.</span><span>MADE FOR THE WANDERERS <span class="lime">✳</span></span></div></footer>
+  <dialog id="lightbox" aria-labelledby="lightbox-title" aria-describedby="lightbox-description" aria-modal="true">
+    <div class="lightbox-panel">
+      <div class="lightbox-toolbar"><span id="lightbox-position"></span><span class="eyebrow">THE ATLAS EDIT</span><button id="close-lightbox" class="icon-button" aria-label="Close photograph" autofocus>×</button></div>
+      <div class="lightbox-media"><img id="lightbox-image" alt=""><p id="image-status" role="status"></p><button id="previous-photo" class="icon-button image-nav previous" aria-label="Previous photograph">←</button><button id="next-photo" class="icon-button image-nav next" aria-label="Next photograph">→</button></div>
+      <div class="lightbox-details"><div><p id="lightbox-meta" class="eyebrow"></p><h2 id="lightbox-title"></h2><p id="lightbox-description"></p><a id="lightbox-credit" target="_blank" rel="noopener noreferrer">Image source ↗</a></div><button id="lightbox-favorite" class="button" aria-pressed="false">Save place ♡</button></div>
+      <div class="viewer-tools"><button id="toggle-guide" class="button" aria-expanded="false" aria-controls="place-guide">Discover this place ↗</button><button id="slideshow-toggle" class="button" aria-pressed="false">Play slideshow ▷</button><label for="slideshow-speed">Slide duration<select id="slideshow-speed"><option value="3000">3 seconds</option><option value="5000" selected>5 seconds</option><option value="8000">8 seconds</option></select></label><p id="slideshow-status" role="status" aria-live="polite">Slideshow paused.</p></div>
+      <section id="place-guide" class="place-guide" aria-labelledby="guide-heading" hidden><p class="eyebrow">A LITTLE FURTHER</p><h3 id="guide-heading">Know the place.</h3><p id="guide-overview"></p><div class="guide-columns"><div><h4>What makes it special</h4><ul id="guide-highlights"></ul><h4>Explore your interests</h4><ul id="guide-activities" class="interest-tags"></ul></div><div><h4>Culture & context</h4><p id="guide-context"></p><h4>Before you go</h4><p id="guide-tip"></p></div></div><div class="guide-links"><a id="guide-source" target="_blank" rel="noopener noreferrer">Read the geographic source ↗</a><a id="guide-map" target="_blank" rel="noopener noreferrer">Locate this place ↗</a></div><p class="guide-note">An editorial introduction, with general planning suggestions. Check current local visitor information before travel.</p></section>
+      <p class="keyboard-hint">← → to explore <span>F to save · P to play / pause</span> Esc to close</p>
+    </div>
+  </dialog>
+  <dialog id="comparison-dialog" aria-labelledby="comparison-title" aria-modal="true"><div class="comparison-panel"><div class="map-heading"><div><p class="eyebrow">DIFFERENT PLACES. YOUR PERSPECTIVE.</p><h2 id="comparison-title">Where calls to you?</h2></div><button id="close-comparison" class="icon-button" aria-label="Close destination comparison" autofocus>×</button></div><p class="comparison-intro">Compare landscapes, interests and cultural context. Choose a guide to explore a place in detail.</p><div id="comparison-grid" class="comparison-grid"></div></div></dialog>
+  <p id="announcement" class="sr-only" role="status" aria-live="polite"></p>
+</body>
+</html>
