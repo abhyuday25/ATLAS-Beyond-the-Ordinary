@@ -27,20 +27,6 @@ Open [ATLAS locally](http://127.0.0.1:8000). Stop the server with Ctrl+C. Python
 - Lazy thumbnails, asynchronous decoding, stable image ratios, graceful local error image, reduced-motion rules.
 - Native button keyboard activation, visible focus rings, skip link and live result announcements.
 
-## Screenshots
-
-![Desktop landing page at 1440 px](docs/report-evidence/shot-001.jpg)
-Editorial hero, branding and primary navigation.
-
-![Dolomites searched gallery card](docs/report-evidence/shot-002.jpg)
-Live search narrows the edit to the destination.
-
-![Dolomites photography viewer](docs/report-evidence/shot-003.jpg)
-Native modal viewer with image credit, saving and navigation controls.
-
-![Dolomites destination guide](docs/report-evidence/shot-004.jpg)
-Overview, highlights, interests, culture, planning note and source links.
-
 ## Keyboard reference
 
 | Key | Behavior |
@@ -103,3 +89,17 @@ For GitHub Pages, commit these files in a repository and choose **Settings → P
 ## Limits
 
 Photographs depend on Wikimedia; the on-demand map depends on OpenStreetMap. Guide text and coordinates are bundled, so reading and comparing destinations works without fetching a guide API. Pins are representative landmarks/viewpoints, not navigation instructions or entrances. Tips are general suggestions, not live travel advisories or verified opening schedules. Favorites are browser/device-local and may not persist in restrictive privacy modes. Search uses a simple case-insensitive substring on the original destination metadata. There is no backend, login, offline image cache, upload or booking service. Modern Chromium was exercised; Firefox, Safari, screen-reader announcements, OS-level reduced-motion, and forced storage/network failure still need manual validation. Passing the included checks is not a WCAG certification or a performance benchmark.
+
+## Screenshots
+
+![ATLAS landing page](screenshots/front.png)
+The ATLAS landing page introduces the editorial travel photography experience.
+
+![Destination gallery](screenshots/places.png)
+The destination gallery presents visual cards for exploring places around the world.
+
+![Interactive destination map](screenshots/map.png)
+The map view provides a location-focused way to discover and inspect destinations.
+
+![Destination guide](screenshots/info.png)
+The destination guide combines context, highlights, interests and planning information.
